@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/activation.jar"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/BMIUtil.jar"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/cos-2020.4.jar"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/imap.jar"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="D:/大學/JAVA網頁元件/Authority/WebContent/WEB-INF/lib/smtp.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
